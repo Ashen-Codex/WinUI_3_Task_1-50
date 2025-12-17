@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Task12.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Task12"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Task12">
+
+    <Grid ColumnDefinitions="*,*" ColumnSpacing="20" Padding="20">
+        <!-- Левая часть: список -->
+        <StackPanel Grid.Column="0" Spacing="10">
+            <TextBlock Text="Фрукты" FontSize="18" FontWeight="Bold"/>
+
+            <ListView x:Name="FruitList" SelectionChanged="OnSelectionChanged">
+                <x:String>Яблоко</x:String>
+                <x:String>Банан</x:String>
+                <x:String>Апельсин</x:String>
+                <x:String>Груша</x:String>
+                <x:String>Виноград</x:String>
+                <x:String>Клубника</x:String>
+            </ListView>
+        </StackPanel>
+
+        <!-- Правая часть: информация -->
+        <StackPanel Grid.Column="1" Spacing="10">
+            <TextBlock Text="Выбранный фрукт" FontSize="18" FontWeight="Bold"/>
+            <TextBlock x:Name="SelectedFruitBlock" Text="Не выбран"
+                      FontSize="24" Foreground="Green" FontWeight="Bold"/>
+
+            <Rectangle Height="200" Fill="LightGreen"/>
+        </StackPanel>
+    </Grid>
+</Window>

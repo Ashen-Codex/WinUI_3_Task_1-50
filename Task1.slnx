@@ -1,0 +1,413 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Task_1-15/">
+    <Project Path="Task1/Task1 (Package)/Task1 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5">
+      <Deploy />
+    </Project>
+    <Project Path="Task1/Task1/Task1.csproj">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task10/Task10 (Package)/Task10 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="870cbc9d-8871-4c84-9f92-ba2ac961796c">
+      <Deploy />
+    </Project>
+    <Project Path="Task10/Task10/Task10.csproj" Id="d7dcc7fa-4535-4854-a14e-688fbc398670">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task11/Task11 (Package)/Task11 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="0508f628-f205-4c06-8475-ca9bd8de68ef">
+      <Deploy />
+    </Project>
+    <Project Path="Task11/Task11/Task11.csproj" Id="5f78b340-6609-4569-af76-3963bbb34677">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task12/Task12 (Package)/Task12 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="0d019e18-7728-4683-bce5-b6d165962bff">
+      <Deploy />
+    </Project>
+    <Project Path="Task12/Task12/Task12.csproj" Id="3e4f4295-06ac-4dde-9881-cb2c9088a72c">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task13/Task13 (Package)/Task13 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="98926046-cef8-448b-9b7d-0eaa40cbe72b">
+      <Deploy />
+    </Project>
+    <Project Path="Task13/Task13/Task13.csproj" Id="947c131e-eba7-46fb-820d-abd20b70ddff">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task14/Task14 (Package)/Task14 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="90acb5a9-4c51-484c-80a7-107cb3c37495">
+      <Deploy />
+    </Project>
+    <Project Path="Task14/Task14/Task14.csproj" Id="f6023d85-d28a-431e-9a48-1ede943ff46b">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task15/Task15 (Package)/Task15 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="160bbc7d-0d55-4f46-8327-52009722e19d">
+      <Deploy />
+    </Project>
+    <Project Path="Task15/Task15/Task15.csproj" Id="dcb3ef0f-585b-4036-8a40-58fb7687c990">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task2/Task2 (Package)/Task2 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="6c55039a-8c0d-4a34-9993-047ce45fb7c0">
+      <Deploy />
+    </Project>
+    <Project Path="Task2/Task2/Task2.csproj" Id="e5c50713-ee7b-487c-8efc-c629353706e4">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task3/Task3 (Package)/Task3 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="2d240b1e-85d1-47c7-94ed-4a8953987802">
+      <Deploy />
+    </Project>
+    <Project Path="Task3/Task3/Task3.csproj" Id="01d52b74-c777-4740-a80c-567f594fc97f">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task4/Task4 (Package)/Task4 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="236de0d2-60a5-4eff-bcda-ece1eb539356">
+      <Deploy />
+    </Project>
+    <Project Path="Task4/Task4/Task4.csproj" Id="5c50d7c2-7d40-4f5e-aaed-7089bcaf886e">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task5/Task5 (Package)/Task5 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="9ddf02f2-f53e-43a2-9c13-7d5ca0ebbf04">
+      <Deploy />
+    </Project>
+    <Project Path="Task5/Task5/Task5.csproj" Id="5546b88f-c64a-44b3-9f8e-5cdad8b93913">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task6/Task6 (Package)/Task6 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="5bef1352-0ded-40db-a787-06219d946c80">
+      <Deploy />
+    </Project>
+    <Project Path="Task6/Task6/Task6.csproj" Id="0ade164b-2cad-4913-849f-141dc2c1d755">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task7/Task7 (Package)/Task7 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="adcb0b92-2c7e-473f-8b1a-18eb90bdf4f3">
+      <Deploy />
+    </Project>
+    <Project Path="Task7/Task7/Task7.csproj" Id="f5daedc8-f157-46d8-8f45-2577fcaba94e">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task8/Task8 (Package)/Task8 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="fe88a650-2183-43dc-b96a-97a9bd74fd9b">
+      <Deploy />
+    </Project>
+    <Project Path="Task8/Task8/Task8.csproj" Id="c4d4ada2-f2f2-4c41-b7f0-be148b0f17e5">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task9/Task9 (Package)/Task9 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="9597a58e-ed14-4dec-8639-3c7cb7ccf5ac">
+      <Deploy />
+    </Project>
+    <Project Path="Task9/Task9/Task9.csproj" Id="bd24baae-b7ab-4a07-a5ba-57d8f68c596f">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+  </Folder>
+  <Folder Name="/Task_16-35/">
+    <Project Path="Task16/Task16 (Package)/Task16 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="59fd09b2-6734-4632-acd3-10320880df46">
+      <Deploy />
+    </Project>
+    <Project Path="Task16/Task16/Task16.csproj" Id="4d297d38-c5ce-4eb4-a6de-cc8735495eb8">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task17/Task17 (Package)/Task17 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="07394d04-b2c2-49d9-9a30-b3d3b79cd724">
+      <Deploy />
+    </Project>
+    <Project Path="Task17/Task17/Task17.csproj" Id="34f95076-ee3d-4a7f-959a-3961cb9175ff">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task18/Task18 (Package)/Task18 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="7e0599e4-bf1f-41c2-ba55-065b610c4701">
+      <Deploy />
+    </Project>
+    <Project Path="Task18/Task18/Task18.csproj" Id="7a104a6e-a8ee-4b6b-b558-fd82e536cd4e">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task19/Task19 (Package)/Task19 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="df985beb-9cba-477c-958d-e07792d8f2d1">
+      <Deploy />
+    </Project>
+    <Project Path="Task19/Task19/Task19.csproj" Id="c88b478b-f87f-46ba-b7ad-ce3812bcbf9b">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task20/Task20 (Package)/Task20 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="6f3c1707-ae80-4c22-b52a-6fb126857880">
+      <Deploy />
+    </Project>
+    <Project Path="Task20/Task20/Task20.csproj" Id="3b0bd019-b6b4-42c4-a88f-7d0484fb2abb">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task21/Task21 (Package)/Task21 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="85cf3a98-cc9f-4336-9e2b-ffee28f4afb6">
+      <Deploy />
+    </Project>
+    <Project Path="Task21/Task21/Task21.csproj" Id="baa9bf1a-11ed-4ee6-b2c0-acf839e8faa8">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task22/Task22 (Package)/Task22 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="e0a771cb-0d3f-477e-aef4-8122923571dd">
+      <Deploy />
+    </Project>
+    <Project Path="Task22/Task22/Task22.csproj" Id="41f6cda5-c93c-4083-94be-777bb1567889">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task23/Task23 (Package)/Task23 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="890e80d9-ec0c-45fc-a88a-daaac8ec6fe3">
+      <Deploy />
+    </Project>
+    <Project Path="Task23/Task23/Task23.csproj" Id="d0350379-4c35-4e6f-aac1-458004abd571">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task24/Task24 (Package)/Task24 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="5887b87d-a29d-4714-b97f-806256fd42fc">
+      <Deploy />
+    </Project>
+    <Project Path="Task24/Task24/Task24.csproj" Id="51fbf51e-8690-47f4-b052-ca3175619b7c">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task25/Task25 (Package)/Task25 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="09c10fff-87de-4bda-a76a-8aed6d1b630a">
+      <Deploy />
+    </Project>
+    <Project Path="Task25/Task25/Task25.csproj" Id="997c9752-32a2-4cbd-a994-09bd358fa070">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task26/Task26 (Package)/Task26 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="2e730f60-7fe0-486c-86c2-b0fb73daa7d8">
+      <Deploy />
+    </Project>
+    <Project Path="Task26/Task26/Task26.csproj" Id="ca9d1a77-c4a4-4406-8374-13877f4f0c8f">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task27/Task27 (Package)/Task27 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="d8a2a47b-b33a-483f-bf66-963c1d829a19">
+      <Deploy />
+    </Project>
+    <Project Path="Task27/Task27/Task27.csproj" Id="9f0d7a8f-cafd-4161-9ff1-fac52f257f2e">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task28/Task28 (Package)/Task28 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="2d59915b-9c2a-4ce5-b4eb-6c177b43a3e2">
+      <Deploy />
+    </Project>
+    <Project Path="Task28/Task28/Task28.csproj" Id="81dff0e4-9f68-47b8-8184-afb2b9c3a02c">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task29/Task29 (Package)/Task29 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="e698f92c-412c-4455-be92-607681249783">
+      <Deploy />
+    </Project>
+    <Project Path="Task29/Task29/Task29.csproj" Id="322f09a5-a48b-4939-a8e0-4423fe2dd499">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task30/Task30 (Package)/Task30 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="7ffc7c3d-ac7a-44fd-b980-e6ef9bfc1b13">
+      <Deploy />
+    </Project>
+    <Project Path="Task30/Task30/Task30.csproj" Id="4c3d986a-cf9b-4a58-b475-af12fb2a0467">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task31/Task31 (Package)/Task31 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="9a44eab6-c44b-4bf2-890d-a4eb3515cf5e">
+      <Deploy />
+    </Project>
+    <Project Path="Task31/Task31/Task31.csproj" Id="1abbe498-ef69-4d47-8617-b1bd3e27ec8d">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task32/Task32 (Package)/Task32 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="0fff1690-582f-4851-b903-8a2eb54393a5">
+      <Deploy />
+    </Project>
+    <Project Path="Task32/Task32/Task32.csproj" Id="1e6eec6e-063a-4131-b30b-0064fff49688">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task33/Task33 (Package)/Task33 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="71cdd0ce-07d3-42f4-8fc1-57a9daabbe67">
+      <Deploy />
+    </Project>
+    <Project Path="Task33/Task33/Task33.csproj" Id="040764b8-192d-4a60-b16f-f44ec7b13b90">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task34/Task34 (Package)/Task34 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="450f9377-3456-46a1-8203-902d44f8d06a">
+      <Deploy />
+    </Project>
+    <Project Path="Task34/Task34/Task34.csproj" Id="593790c4-ed54-44c6-bae6-3652c4cb916c">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task35/Task35 (Package)/Task35 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="cf8b8689-21a4-413f-aaff-6efca65888a8">
+      <Deploy />
+    </Project>
+    <Project Path="Task35/Task35/Task35.csproj" Id="d8197b54-6ffd-4326-979a-bbf1191145f7">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+  </Folder>
+  <Folder Name="/Task_36-50/">
+    <Project Path="Task36/Task36 (Package)/Task36 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="69199968-2639-439d-8056-b04514efcbd0">
+      <Deploy />
+    </Project>
+    <Project Path="Task36/Task36/Task36.csproj" Id="75486979-8cc9-42ab-875f-e2121922c9a0">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task37/Task37 (Package)/Task37 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="97f9e8c7-946a-481b-bb3b-026ab1dd51ac">
+      <Deploy />
+    </Project>
+    <Project Path="Task37/Task37/Task37.csproj" Id="65882cca-3851-436c-ab32-eb0c0d72f625">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task38/Task38 (Package)/Task38 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="9f30f06e-5b0a-48b4-aa49-7e0ce36cd3f9">
+      <Deploy />
+    </Project>
+    <Project Path="Task38/Task38/Task38.csproj" Id="fb4219a2-429a-4ad8-b404-cb0ede35fec8">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task39/Task39 (Package)/Task39 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="c6abf6d6-fef5-4730-84e0-fea4d7906dc6">
+      <Deploy />
+    </Project>
+    <Project Path="Task39/Task39/Task39.csproj" Id="dce9926b-b8b6-41e0-8d7b-d22c18d52cb6">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task40/Task40 (Package)/Task40 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="51edb8d7-882e-4e8f-ab2f-4f2f09ef8b8f">
+      <Deploy />
+    </Project>
+    <Project Path="Task40/Task40/Task40.csproj" Id="7735eeef-2c50-4869-8b18-8703b5ba9420">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task41/Task41 (Package)/Task41 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="0a36fc71-ca39-4c25-9c34-87a1101cd55c">
+      <Deploy />
+    </Project>
+    <Project Path="Task41/Task41/Task41.csproj" Id="a2c2fe3b-c4bb-49cd-99ae-1e638f4e01a0">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task42/Task42 (Package)/Task42 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="84f7eae5-fbcc-43b8-9f09-fa2a07f6b996">
+      <Deploy />
+    </Project>
+    <Project Path="Task42/Task42/Task42.csproj" Id="72e04126-365f-4298-82e4-0618d293db97">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task43/Task43 (Package)/Task43 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="31d919cb-ec1a-463d-82cb-5d5e8eaed97c">
+      <Deploy />
+    </Project>
+    <Project Path="Task43/Task43/Task43.csproj" Id="659f487b-b6c0-4331-841c-4316538cd661">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task44/Task44 (Package)/Task44 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="c89bc25f-5a72-48d5-98d7-ef2fd7f05d6b">
+      <Deploy />
+    </Project>
+    <Project Path="Task44/Task44/Task44.csproj" Id="bf7434ec-4daa-442a-8e2a-7abae8ef6427">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task45/Task45 (Package)/Task45 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="cba64ef5-d495-4b32-bb92-11052d1e0635">
+      <Deploy />
+    </Project>
+    <Project Path="Task45/Task45/Task45.csproj" Id="40eef904-66f4-4588-a81c-8a2b9f426852">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task46/Task46 (Package)/Task46 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="4f91179c-39cc-4ad5-be0b-fc07995d3cae">
+      <Deploy />
+    </Project>
+    <Project Path="Task46/Task46/Task46.csproj" Id="42c371f1-f2bd-4b53-8780-9c136f0821b2">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task47/Task47 (Package)/Task47 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="79b38854-5b75-4601-a22b-9e904c460839">
+      <Deploy />
+    </Project>
+    <Project Path="Task47/Task47/Task47.csproj" Id="207cd991-7dde-4da9-b41b-23967f00b06d">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task48/Task48 (Package)/Task48 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="0b1ead7e-7cab-449e-9edb-8b1f8f756f00">
+      <Deploy />
+    </Project>
+    <Project Path="Task48/Task48/Task48.csproj" Id="84287a4b-d7ef-43a4-9a8e-8912d5d99d16">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task49/Task49 (Package)/Task49 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="62a30411-8872-45f2-b4d3-119b13277bce">
+      <Deploy />
+    </Project>
+    <Project Path="Task49/Task49/Task49.csproj" Id="a87aa1da-e3db-4980-961b-ea086996bc04">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="Task50/Task50 (Package)/Task50 (Package).wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="c6144bb4-d035-454c-9c86-7ef8b1508bae">
+      <Deploy />
+    </Project>
+    <Project Path="Task50/Task50/Task50.csproj" Id="e0d8b466-9c42-4e68-b197-6a07c158e07d">
+      <Platform Solution="*|ARM64" Project="ARM64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+  </Folder>
+</Solution>

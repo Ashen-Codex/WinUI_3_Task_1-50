@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Task3.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Task3"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Task3">
+
+    <StackPanel Padding="20" Spacing="15" MaxWidth="400">
+        <TextBlock Text="Введите ваши данные" FontSize="24" FontWeight="Bold"/>
+
+        <StackPanel Spacing="5">
+            <TextBlock Text="Имя:" FontWeight="Bold"/>
+            <TextBox x:Name="FirstNameBox" PlaceholderText="Иван"/>
+        </StackPanel>
+
+        <StackPanel Spacing="5">
+            <TextBlock Text="Фамилия:" FontWeight="Bold"/>
+            <TextBox x:Name="LastNameBox" PlaceholderText="Сидоров"/>
+        </StackPanel>
+
+        <StackPanel Spacing="5">
+            <TextBlock Text="Электронная почта:" FontWeight="Bold"/>
+            <TextBox x:Name="EmailBox" PlaceholderText="ivan@example.com"/>
+        </StackPanel>
+
+        <Button Content="Отправить" Click="OnSubmitClick"
+                Padding="10,8" FontSize="14"/>
+
+        <TextBlock x:Name="ResultBlock" Text=""/>
+    </StackPanel>
+</Window>
